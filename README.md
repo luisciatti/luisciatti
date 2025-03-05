@@ -1,6 +1,6 @@
 # 💻 Luis Ciatti
  
-<p align="center"><img src="assets/banner.webp" alt="Banner"></p>
+<p align="center"><img src="Banner/banner-luis.png" alt="Banner"></p>
  
 ## 📋 Introduction
  
